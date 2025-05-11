@@ -3,3 +3,4 @@ frontend/
 ├── style.css
 ├── app.js                  # Handles interaction with backend API
 └── assets/                 # Images, icons, etc.
+
