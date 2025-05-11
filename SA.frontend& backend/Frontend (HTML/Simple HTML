@@ -28,3 +28,4 @@ async function sendMessage() {
   document.getElementById('chatbox').innerHTML += `<p><strong>You:</strong> ${input}</p>`;
   document.getElementById('chatbox').innerHTML += `<p><strong>Bot:</strong> ${data.response}</p>`;
 }
+
