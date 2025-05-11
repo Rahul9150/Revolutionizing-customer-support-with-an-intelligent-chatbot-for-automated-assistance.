@@ -40,7 +40,7 @@ This project aims to transform traditional customer support by implementing an *
 ├── Dockerfile
 └── README.md
 
-`
+
 
 ## 🔧 Setup Instructions
 
